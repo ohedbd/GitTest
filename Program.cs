@@ -12,6 +12,7 @@ namespace GitTest
         {
             int number = 10;
             string name = "Mahmud";
+            string Address = "Dhaka";
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
