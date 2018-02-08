@@ -14,6 +14,7 @@ namespace GitTest
             string name = "Mahmud";
             string Address = "Dhaka";
             string RegNo="as1234";
+            string msg = "something";
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
