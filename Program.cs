@@ -10,6 +10,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            int number1=20;
             int number = 10;
             string name = "Mahmud";
             string Address = "Dhaka";
