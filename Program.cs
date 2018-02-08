@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             int number = 10;
+            string name = "Mahmud";
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
